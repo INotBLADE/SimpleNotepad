@@ -1,0 +1,11 @@
+{
+  "name": "SimpleNotepad",
+  "version": "1.0",
+  "description": "Notepad... and nothing else",
+  "url": "https://github.com/INotBLADE/SimpleNotepad",
+  "authors": [ "Blade" ],
+  "main_class": "com.lambda.SimpleNotepadPlugin",
+  "min_api_version": "3.2",
+  "hot_reload": true,
+  "required_plugins": []
+}
